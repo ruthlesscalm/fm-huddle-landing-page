@@ -5,7 +5,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## 🔗 Links 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/-built-to-impress-400400-accessibility-and-clamp-magic-BTrnYRoOa0)
-- Live Site URL: [Huddle Landing Page](https://ruthlesscalm.github.io/frontend-mentor-projects/huddle-landing-page/)
+- Live Site URL: [Huddle Landing Page](https://ruthlesscalm.github.io/fm-huddle-landing-page/)
 
 ## 🔍 Table of contents
 
@@ -100,5 +100,5 @@ Pull req are welcome. For major changes, open an issue first.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](../LICENSE).  
-You're free to use, modify, and distribute with credit to **Ruthless Calm**.
+This project is licensed under the [MIT License](./LICENSE).  
+You're free to use, modify, and distribute with credit to **Pavan Gowda S R**.
