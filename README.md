@@ -6,6 +6,7 @@ This is one of my Frontend Mentor challenge projects.
 
 This is challenge - [Huddle landing page](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) if you want to check out their challenges.
 - Live Demo: [Huddle Landing Page](https://ruthlesscalm.github.io/fm-huddle-landing-page/)
+- Solution: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/-built-to-impress-400400-accessibility-and-clamp-magic-BTrnYRoOa0)
 
 ## Preview
 
